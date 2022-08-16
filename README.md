@@ -13,6 +13,12 @@ Ich habe gelernt, wie man einfache Rechenoperationen mit Python durchführen kan
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
+![Alt Text](https://raw.githubusercontent.com/Pianonic/special-octo-libary/main/1.png)
+![Alt Text](https://raw.githubusercontent.com/Pianonic/special-octo-libary/main/2.png)
+![Alt Text](https://raw.githubusercontent.com/Pianonic/special-octo-libary/main/3.png)
+![Alt Text](https://raw.githubusercontent.com/Pianonic/special-octo-libary/main/4.png)
+![Alt Text](https://raw.githubusercontent.com/Pianonic/special-octo-libary/main/5.png)
+
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
