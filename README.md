@@ -25,8 +25,8 @@ Hier ein gif mit der "+" Rechenmethode.
 
 # Reflektion zum Arbeitsprozess
 
-Ich hatte viel motivation und Lernte schnell die grundkentisse.
+👍 Ich hatte viel motivation und Lernte schnell die grundkentisse.
 
-Ich habe mich aber auch viel geärgert, da es nicht mit anhieb funktionierte. 
+👎 Ich habe mich aber auch viel geärgert, da es nicht mit anhieb funktionierte. 
 
 **VBV**: Da ich alles an einem Tag gelernt habe war der Lerneffekt nicht so gross. Desswegen sollte ich beim nächsten mal das Lernen auf mehrere Tage ausbreiten und auch Pausen einlegen.
