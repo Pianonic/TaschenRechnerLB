@@ -11,7 +11,7 @@ Ich habe gelernt, wie man einfache Rechenoperationen mit Python durchführen kan
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+Ich habe mithilfe von [w3schools](https://www.w3schools.com/python/) mir die grundkentnisse von Python angeeignet, und beschlossen einen simplen Taschenrechner zu programmiern um herauszufinden ob ich auch alles verstanden habe. Anfangs gab es viele Fehler doch nach längerer Recherche wurde mir klar, wieso mir die fehler passiert sind. Ich habe nun den fehler freien Code unden mit bildern und Text dokumentiert und mit einem "Showcase" gezeigt wie der Rechner funktioniert.
 
 ![Alt Text](https://raw.githubusercontent.com/Pianonic/special-octo-libary/main/1.png)
 ![Alt Text](https://raw.githubusercontent.com/Pianonic/special-octo-libary/main/2.png)
@@ -19,23 +19,14 @@ Ich habe gelernt, wie man einfache Rechenoperationen mit Python durchführen kan
 ![Alt Text](https://raw.githubusercontent.com/Pianonic/special-octo-libary/main/5.png)
 ![Alt Text](https://raw.githubusercontent.com/Pianonic/special-octo-libary/main/4.png)
 
-Hier ein gif mit der "+" Rechenmethode
+Hier ein gif mit der "+" Rechenmethode.
 
 ![Alt Text](https://raw.githubusercontent.com/Pianonic/special-octo-libary/main/gif-of-plus.gif)
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
-
-## Verifikation
-
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
-
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Ich hatte viel motivation und Lernte schnell die grundkentisse.
 
-👎 und etwas, was nicht gut lief.
+Ich habe mich aber auch viel geärgert, da es nicht mit anhieb funktionierte. 
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Da ich alles an einem Tag gelernt habe war der Lerneffekt nicht so gross. Desswegen sollte ich beim nächsten mal das Lernen auf mehrere Tage ausbreiten und auch Pausen einlegen.
