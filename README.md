@@ -3,11 +3,11 @@ Niclas Erismann
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Ich habe in den Sommerferien begonnen die Programiersprache Python zu lernen
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Ich habe gelernt, wie man einfache Rechenoperationen mit Python durchführen kann.
 
 ## Beschreibung
 
