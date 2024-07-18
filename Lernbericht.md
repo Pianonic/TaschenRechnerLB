@@ -6,23 +6,49 @@ In den Sommerferien habe ich begonnen, die Programmiersprache Python zu lernen. 
 
 ## Was habe ich gelernt?
 
-Ich habe gelernt, wie man einfache Rechenoperationen mit Python durchführen kann. 🧮
+Ich habe gelernt, wie man mathematische Ausdrücke in Python auswertet und einfache Fehlerbehandlung implementiert. 🧮
 
 ## Beschreibung
 
-Ich habe mithilfe von [w3schools](https://www.w3schools.com/python/) mir die Grundkenntnisse von Python angeeignet und beschlossen, einen simplen Taschenrechner zu programmieren, um zu überprüfen, ob ich alles verstanden habe. Zunächst gab es viele Fehler, doch nach längerer Recherche wurde mir klar, warum die Fehler auftraten. Ich habe nun den fehlerfreien Code dokumentiert und mit Bildern und Text gezeigt, wie der Rechner funktioniert. 📊
+Ich habe mithilfe von [w3schools](https://www.w3schools.com/python/) mir die Grundkenntnisse von Python angeeignet und beschlossen, einen Taschenrechner zu programmieren, der komplette Rechnungen wie `1 + 1` oder `3 - 2 + 1` verarbeiten kann, um zu überprüfen, ob ich alles verstanden habe.
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Pianonic/special-octo-libary/main/1.png" alt="Bild 1" width="300">
-    <img src="https://raw.githubusercontent.com/Pianonic/special-octo-libary/main/2.png" alt="Bild 2" width="300">
-    <img src="https://raw.githubusercontent.com/Pianonic/special-octo-libary/main/3.png" alt="Bild 3" width="300">
-    <img src="https://raw.githubusercontent.com/Pianonic/special-octo-libary/main/4.png" alt="Bild 4" width="300">
-    <img src="https://raw.githubusercontent.com/Pianonic/special-octo-libary/main/5.png" alt="Bild 5" width="300">
-</div>
+Hier ist der Code, den ich verwendet habe, und eine Erklärung der einzelnen Teile:
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Pianonic/special-octo-libary/main/gif-of-plus.gif" alt="Plus-Methode" width="300">
-</div>
+### 1. Funktion zur Berechnung von Ausdrücken
+
+```python
+def calculate(expression):
+    try:
+        # Die eval()-Funktion wird verwendet, um den mathematischen Ausdruck zu berechnen.
+        result = eval(expression)
+        return result
+    except Exception as e:
+        return f"Fehler: {str(e)}"
+```
+
+**Erklärung:**
+- **`def calculate(expression):`**: Definiert eine Funktion namens `calculate`, die einen Parameter `expression` erhält, welcher den mathematischen Ausdruck als String enthält.
+- **`result = eval(expression)`**: Verwendet die `eval()`-Funktion, um den mathematischen Ausdruck auszuwerten.
+- **`return result`**: Gibt das Ergebnis der Berechnung zurück.
+- **`except Exception as e:`**: Fängt alle Ausnahmen, die während der Auswertung auftreten könnten.
+- **`return f"Fehler: {str(e)}"`**: Gibt eine Fehlermeldung zurück, wenn ein Fehler auftritt.
+
+### 2. Benutzerinteraktion und Berechnung
+
+```python
+print("Geben Sie einen mathematischen Ausdruck ein (z.B. 1 + 1):")
+expression = input("Rechnung: ")
+
+# Ergebnis berechnen und ausgeben
+result = calculate(expression)
+print(f"Ergebnis: {result}")
+```
+
+**Erklärung:**
+- **`print("Geben Sie einen mathematischen Ausdruck ein (z.B. 1 + 1):")`**: Fordert den Benutzer auf, einen mathematischen Ausdruck einzugeben.
+- **`expression = input("Rechnung: ")`**: Liest die Benutzereingabe und speichert sie in der Variablen `expression`.
+- **`result = calculate(expression)`**: Ruft die `calculate`-Funktion auf, um das Ergebnis des eingegebenen Ausdrucks zu berechnen.
+- **`print(f"Ergebnis: {result}")`**: Gibt das Ergebnis der Berechnung aus.
 
 ## Reflektion zum Arbeitsprozess
 
@@ -30,11 +56,4 @@ Ich habe mithilfe von [w3schools](https://www.w3schools.com/python/) mir die Gru
 
 👎 Allerdings hat es mich frustriert, dass es nicht auf Anhieb funktionierte.
 
-**Verbesserungsvorschläge (VBV)**: Da ich alles an einem Tag gelernt habe, war der Lerneffekt nicht so groß. Beim nächsten Mal werde ich das Lernen auf mehrere Tage verteilen und auch Pausen einlegen, um den Lernprozess zu optimieren. ⏳
-
----
-
-### Erläuterung
-
-- **Bildgrößenanpassung**: Die `width="300"`-Eigenschaft in den `<img>`-Tags sorgt dafür, dass alle Bilder auf eine Breite von 300 Pixeln skaliert werden. Du kannst diesen Wert nach Belieben anpassen.
-- **Zentrierung der Bilder**: Das `align="center"` Attribut innerhalb des `<div>`-Tags sorgt dafür, dass die Bilder zentriert angezeigt werden.
+**Verbesserungsvorschläge (VBV):** Da ich alles an einem Tag gelernt habe, war der Lerneffekt nicht so gross. Beim nächsten Mal werde ich das Lernen auf mehrere Tage verteilen und auch Pausen einlegen, um den Lernprozess zu optimieren. ⏳
