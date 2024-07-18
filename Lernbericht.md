@@ -1,5 +1,7 @@
 # Lern-Bericht
 
+Author: Niclas
+
 ## Einleitung
 
 In den Sommerferien habe ich begonnen, die Programmiersprache Python zu lernen. 🐍
