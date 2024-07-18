@@ -1,5 +1,4 @@
 # Lern-Bericht
-Niclas Erismann
 
 ## Einleitung
 
