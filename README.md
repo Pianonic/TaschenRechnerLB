@@ -13,7 +13,3 @@
 ## Weitere Informationen
 
 Für eine ausführliche Dokumentation besuche bitte den [Lernbericht auf GitHub](https://github.com/Pianonic/TaschenRechnerLB/blob/main/Lernbericht.md). 🌐
-
----
-
-Verwende dieses Dokument als Übersicht und Hinweis zu meinem Taschenrechner-Projekt. Viel Spaß beim Lesen! 🎉
